@@ -1,10 +1,6 @@
 .gradle/
-gradle/
-!gradle/wrapper/gradle-wrapper.jar
-gradlew
-gradlew.bat
-build/
 .idea
+build/
 
 ### Mac OS ###
 .DS_Store
